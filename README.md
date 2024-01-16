@@ -1,2 +1,2 @@
-# personal-projects
+# Personal-projects
 A collection of random personal projects that I made.
